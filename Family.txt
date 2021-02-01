@@ -1,3 +1,5 @@
+<html>
+<body>
         <title>FAMILY DETAILS</title>
     </head>
     <body>
